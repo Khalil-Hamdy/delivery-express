@@ -1,10 +1,10 @@
 # delivery-express
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/ffa8f15c-db89-46f6-ad1d-14cff631bd86" width="300" />
-  <img src="https://github.com/user-attachments/assets/830e06e0-d2f2-4fbc-bf44-7f6cf9462f12" width="300" />
-  <img src="https://github.com/user-attachments/assets/6533a55c-f619-40a3-aee1-98dd2c0866ea" width="300" />
-  <img src="https://github.com/user-attachments/assets/825522b9-28f3-4382-ae51-174bd381f36c" width="300" />
+  <img src="https://github.com/user-attachments/assets/ffa8f15c-db89-46f6-ad1d-14cff631bd86" width="250" />
+  <img src="https://github.com/user-attachments/assets/830e06e0-d2f2-4fbc-bf44-7f6cf9462f12" width="250" />
+  <img src="https://github.com/user-attachments/assets/6533a55c-f619-40a3-aee1-98dd2c0866ea" width="250" />
+  <img src="https://github.com/user-attachments/assets/825522b9-28f3-4382-ae51-174bd381f36c" width="250" />
   <img src="https://github.com/user-attachments/assets/6b67e3b3-74f1-4e59-a9e4-5d9491a57727" width="150" />
   <img src="https://github.com/user-attachments/assets/c7516dbf-feb8-4bb3-9c90-09dca12f0d4d" width="150" /> 
   <img src="https://github.com/user-attachments/assets/76940d4f-0976-4de4-80da-bb96fa0c0dc7" width="150" />
